@@ -1,2 +1,3 @@
-# jamestalktest
-James Whale talk for Computing Society
+# Read Me Test
+
+James Whales talk for Computing Society test repo.
